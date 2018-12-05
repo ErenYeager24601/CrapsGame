@@ -1,0 +1,2 @@
+# CrapsGame
+Coding my own version of craps. Where the player starts out with 100 points, if they can double their points, they win. If they reach zero, they lose. Game rules, roll 1 six sided dice, make a bet if the number is 2,3,4,5, lose 10 points if 1 or 6. Roll the dice again, numbers 1 &amp; 6 loses the bet you made, numbers[2...5] wins you the bet if the number is greater than the 1st dice number(i.e. dice1=2 &amp;&amp;dice2=5; you win).
